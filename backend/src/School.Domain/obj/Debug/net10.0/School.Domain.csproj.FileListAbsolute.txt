@@ -1,0 +1,12 @@
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/bin/Debug/net10.0/School.Domain.deps.json
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/bin/Debug/net10.0/School.Domain.dll
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/bin/Debug/net10.0/School.Domain.pdb
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/obj/Debug/net10.0/School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/obj/Debug/net10.0/School.Domain.AssemblyInfoInputs.cache
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/obj/Debug/net10.0/School.Domain.AssemblyInfo.cs
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/obj/Debug/net10.0/School.Domain.csproj.CoreCompileInputs.cache
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/obj/Debug/net10.0/School.Domain.sourcelink.json
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/obj/Debug/net10.0/School.Domain.dll
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/obj/Debug/net10.0/refint/School.Domain.dll
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/obj/Debug/net10.0/School.Domain.pdb
+/home/javiersg/Desarrollo/Proyectos/Nexo-Escolar/backend/src/School.Domain/obj/Debug/net10.0/ref/School.Domain.dll

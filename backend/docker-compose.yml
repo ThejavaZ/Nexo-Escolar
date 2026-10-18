@@ -1,0 +1,20 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: nexoescolar-postgres
+    environment:
+      POSTGRES_USER: nexoescolar
+      POSTGRES_PASSWORD: nexoescolar_dev
+      POSTGRES_DB: NexoEscolarDb
+    ports:
+      - "5432:5432"
+    volumes:
+      - nexoescolar-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U nexoescolar -d NexoEscolarDb"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  nexoescolar-data:

@@ -7,7 +7,7 @@ services:
       POSTGRES_PASSWORD: nexoescolar_dev
       POSTGRES_DB: NexoEscolarDb
     ports:
-      - "5432:5432"
+      - "5434:5432"
     volumes:
       - nexoescolar-data:/var/lib/postgresql/data
     healthcheck:
